@@ -121,7 +121,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 Neat hovercards for GitHub.
 
-Installs: 26408 | Stars: 1771 | Last update: 12 May 2021
+Installs: 26410 | Stars: 1771 | Last update: 12 May 2021
 
 ### [GitHub Issue Link Status](https://github.com/fregante/github-issue-link-status) <a href="https://chrome.google.com/webstore/detail/github-issue-link-status/nbiddhncecgemgccalnoanpnenalmkic"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-issue-link-status/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
